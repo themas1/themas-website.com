@@ -1,0 +1,239 @@
+body {
+    background-color: black;
+}
+
+.heading {
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    text-decoration: underline;
+    margin-bottom: 0px;
+    cursor: pointer;
+}
+
+.video {
+    color: rgb(101, 100, 100);
+    font-family: arial;
+    font-weight: lighter;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+.inside {
+    color: white;
+    font-family: arial;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.click {
+    display: inline-block;
+    font-family: arail;
+    font-weight: bolder;
+    margin-left: 25px;
+    cursor: pointer;
+
+}
+
+.nameandfood {
+    color: white;
+    font-family: arial;
+    display: inline-block;
+    cursor: pointer;
+}
+.daniel,
+.Chocolate {
+    font-family: arail;
+    font-weight: bolder;
+    display: inline-block;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+.hello-one {
+    color: white;
+    font-family: arial;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.hello-two {
+    background-color: white;
+    width: 95px;
+    font-family: arial;
+    display: inline-block;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.some-today {
+    color: white;
+    font-family: arial;
+    cursor: pointer;
+}
+
+.prayed {
+    background: white;
+    width: 500px;
+    height: 80px;
+    cursor: pointer;
+}
+.video-prayer {
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 5px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.video-pray {
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.solution {
+    color: white;
+    margin-left: 288px;
+    margin-bottom: 0px;
+    cursor: pointer;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+.left-section {
+    display: flex;
+    align-items: center;
+    color: red;
+    margin-left: 280px;
+    font-size: 17px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+.left-section h6 {
+    color: red;
+    font-size: 17px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+h5 {
+    color: red;
+    margin-right: 300px;
+    font-size: 17px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+.your-country {
+    color: white;
+    font-family: arial;
+    cursor: pointer;
+}
+
+.website-b4 {
+    color: rgba(182, 176, 176, 0.674);
+    font-family: arial;
+    width: 300px;
+    cursor: pointer;
+}
+
+.google-link {
+    display: inline-block;
+    cursor: pointer;
+    color: rgb(106, 0, 255);
+    background-color: white;
+    font-family: arial;
+    text-decoration:underline;
+    padding: 5px;
+    margin-left: 150px;
+}
+
+.straight {
+    display: inline-block;
+    color: white;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.one-e {
+    color: white;
+    cursor: pointer;
+    font-family: arial;
+}
+
+.challenge {
+    color: red;
+    display: inline-block;
+    text-decoration: underline;
+    font-family: arial;
+    cursor: pointer;
+    margin-bottom: 0px;
+}
+
+.challenge-video {
+    color: white;
+    margin-top: 10px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.video-challenge {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.video-challeng {
+    display: inline-block;
+    background: white;
+    width: 300px;
+    height: 160px;
+    vertical-align: top;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.amazon-video {
+    color: rgb(106, 0, 255);
+    margin-left: 12px;
+    cursor: pointer;
+}
+.delivery-video,
+.stuck-video,
+.nike-video {
+    color: black;
+    font-family: arial;
+    margin-left: 12px;
+}
+.cart-video {
+    margin-left: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.buy-video {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+
+
+
+
